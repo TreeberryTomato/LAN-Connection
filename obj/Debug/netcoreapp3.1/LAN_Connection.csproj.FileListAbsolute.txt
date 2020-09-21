@@ -1,0 +1,13 @@
+D:\program\C#\LAN_Connection\bin\Debug\netcoreapp3.1\LAN_Connection.exe
+D:\program\C#\LAN_Connection\bin\Debug\netcoreapp3.1\LAN_Connection.deps.json
+D:\program\C#\LAN_Connection\bin\Debug\netcoreapp3.1\LAN_Connection.runtimeconfig.json
+D:\program\C#\LAN_Connection\bin\Debug\netcoreapp3.1\LAN_Connection.runtimeconfig.dev.json
+D:\program\C#\LAN_Connection\bin\Debug\netcoreapp3.1\LAN_Connection.dll
+D:\program\C#\LAN_Connection\bin\Debug\netcoreapp3.1\LAN_Connection.pdb
+D:\program\C#\LAN_Connection\obj\Debug\netcoreapp3.1\LAN_Connection.csprojAssemblyReference.cache
+D:\program\C#\LAN_Connection\obj\Debug\netcoreapp3.1\LAN_Connection.AssemblyInfoInputs.cache
+D:\program\C#\LAN_Connection\obj\Debug\netcoreapp3.1\LAN_Connection.AssemblyInfo.cs
+D:\program\C#\LAN_Connection\obj\Debug\netcoreapp3.1\LAN_Connection.csproj.CoreCompileInputs.cache
+D:\program\C#\LAN_Connection\obj\Debug\netcoreapp3.1\LAN_Connection.dll
+D:\program\C#\LAN_Connection\obj\Debug\netcoreapp3.1\LAN_Connection.pdb
+D:\program\C#\LAN_Connection\obj\Debug\netcoreapp3.1\LAN_Connection.genruntimeconfig.cache
